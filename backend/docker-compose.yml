@@ -11,5 +11,5 @@ services:
     restart: always
 
     environment:
-      POSTGRES_USER: vedanth
-      POSTGRES_PASSWORD: 18689071
+      POSTGRES_USER: changemeinprod!
+      POSTGRES_PASSWORD: changemeinprod!
